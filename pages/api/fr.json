@@ -6,9 +6,9 @@
         "input":{
             "email":"Adresse e-mail ou numéro de tél.",
             "pass":"Mot de passe",
-            "buttonlogin":"Connextion",
+            "buttonlogin":"Connexion",
             "mdpMissed":"Mot de passe oublié ?",
-            "btnSignup":"rée un compte"
+            "btnSignup":"Crée un compte"
         }
     }
 }
