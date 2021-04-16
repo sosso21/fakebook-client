@@ -1,0 +1,14 @@
+{
+    "urlServer":"https://fakebook-admin.herokuapp.com",
+    "home":{
+        "title":"facebook",
+        "description":"Avec Facebook, partagez et restez en contact avec votre entourage.",
+        "input":{
+            "email":"Adresse e-mail ou numéro de tél.",
+            "pass":"Mot de passe",
+            "buttonlogin":"Connextion",
+            "mdpMissed":"Mot de passe oublié ?",
+            "btnSignup":"rée un compte"
+        }
+    }
+}
